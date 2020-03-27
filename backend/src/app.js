@@ -13,6 +13,9 @@ app.use(routes)
 app.use(errors())
 module.exports = app
 
+
+//Falta resolver um erro, lembrete
+
 /**
  * Rota / Recurso
  */
